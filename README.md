@@ -1,2 +1,10 @@
 # Customer-Churn-Prediction-Dashboard-project
-Customer Churn Prediction Dashboard is a Business Intelligence project designed to analyze customer behavior,identify churn patterns and support retention strategies.Using Microsoft Excel for data preparation and Power BI for visualization and analysis,this dashboard helps businesses understand why customers leave and enables data-driven decisions
+## Project Objective
+Analyze customer demographics and subscription details.
+Identify factors contributing to customer churn.
+Monitor churn rates across different customer segments.
+Evaluate the impact of contract types, service usage, and support interactions.
+Support customer retention strategies through actionable insights.
+
+## Dataset used
+-<a href="
