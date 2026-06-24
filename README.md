@@ -81,7 +81,7 @@ Highlighted key drivers of customer churn.
 Generated recommendations to improve retention.
 
 ## Dashboard Interaction
-- <a href="
+- <a href="https://github.com/ayyappanmani05555-source/Customer-Churn-Prediction-Dashboard-project/blob/main/ayyappan%20customer%20churn%20dashboard.csv.pbix>View Dashboard</a>
 
 ## Project Insights
 Customers with shorter tenure are more likely to churn than long-term customers.
